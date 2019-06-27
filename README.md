@@ -1,5 +1,5 @@
 # wifi-password
-with This Python script you can get your wifi password 
+This script can help you to get reverse shell code 
 # Downlaod
 git clone https://github.com/MRX-Exploit/wifi-password.git
 # How to use
